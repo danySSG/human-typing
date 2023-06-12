@@ -20,3 +20,7 @@ Implemented are the simulation of typing errors and a changeable typing speed. Y
 ## P.S.
 
 This can be extremely useful in conjunction with https://github.com/reu/clipshare
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
