@@ -14,7 +14,8 @@ Implemented are the simulation of typing errors and a changeable typing speed. Y
 
 ## Releases
 
-
+### [v1.0.0](https://github.com/danySSG/human-typing/releases/tag/v1.0.0) (2023-06-13) 
+* Initial release.
 
 ## P.S.
 
